@@ -24,6 +24,9 @@ app.use(session({
 app.use(passport.initialize())
 app.use(passport.session())
 
+app.get('/',(req,res)=>{
+    res.status(200).end()
+})
 
 app.get('/unauthorized',(req,res)=>{
     res.status(401).end()
