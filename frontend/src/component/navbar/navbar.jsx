@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { Link, Outlet } from "react-router-dom";
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import logo from "../../assets/logo.png";
 
 import style from "./navbar.module.css";
