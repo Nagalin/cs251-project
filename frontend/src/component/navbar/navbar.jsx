@@ -65,7 +65,7 @@ function Navbar() {
           </div>
         </div>
       </div>
-      <Outlet />
+     
     </>
   );
 }
