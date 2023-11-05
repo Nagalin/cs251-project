@@ -1,0 +1,30 @@
+
+
+# A simple weapon reservation website
+
+## Technology
+React, Express , MySQL, Node.js
+
+# Getting Started
+
+## Setting up your MYSQL database
+import a SQL file given in the repo to MYSQL database
+
+## Setting up environment
+To run this project, you need to set up your own environment variables. Here's how: 
+1. Opena a file named `.env` in the backend directory . 
+2.  Edit the following <br/> 
+		 USER = your username in MYSQL account
+		 PASSWORD= your password in MYSQL account
+		 DATABASE = your database name
+
+## installation
+git clone https://github.com/Nagalin/cs251-project.git <br />
+cd Shopping-website/frontend <br />
+npm i <br />
+npm run dev <br />
+
+#### open other terminal
+cd Shopping-website/frontend <br />
+npm i <br />
+npm run build<br />
