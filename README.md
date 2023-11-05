@@ -28,3 +28,6 @@ npm run dev <br />
 cd Shopping-website/frontend <br />
 npm i <br />
 npm run build<br />
+
+## To login into website
+ the username are 66000001 - 66000008 and the password is 1234
