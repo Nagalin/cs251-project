@@ -14,9 +14,9 @@ import a SQL file given in the repo to MYSQL database
 To run this project, you need to set up your own environment variables. Here's how: 
 1. Opena a file named `.env` in the backend directory . 
 2.  Edit the following <br/> 
-		 USER = your username in MYSQL account
-		 PASSWORD= your password in MYSQL account
-		 DATABASE = your database name
+		 USER = your username in MYSQL account <br />
+		 PASSWORD= your password in MYSQL account <br />
+		 DATABASE = your database name <br />
 
 ## installation
 git clone https://github.com/Nagalin/cs251-project.git <br />
